@@ -1,0 +1,14 @@
+metric,value
+Co-tested compounds (measured vs both enzymes),684
+Compounds with both values from same document (%),99
+Distinct IDO1 assays,209
+Distinct TDO2 assays,87
+Distinct IDO1 source documents,105
+Distinct TDO2 source documents,53
+Largest single document (% of set),30
+IDO1 measurement mix IC50/Ki/Kd,1141/54/8
+TDO2 measurement mix IC50/Ki/Kd,826/26/2
+Year range,2009-2025
+Pearson r (all 684),0.43
+"Pearson r (excluding largest document, n=478)",0.34
+"Pearson r (within largest document, n=206)",0.58

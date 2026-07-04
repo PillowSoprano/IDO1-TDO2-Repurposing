@@ -1,0 +1,14 @@
+Rank,Drug,Predicted pIC50,P(active),NN Tanimoto,Docking score (kcal/mol),Approved indication / primary pharmacology
+1,Cabozantinib,7.89,0.78,0.43,-9.9,"Multi-kinase inhibitor (VEGFR2/MET/RET/AXL); renal & thyroid cancer, HCC"
+2,Tolvaptan,7.24,0.72,0.33,-10.6,"Vasopressin V2 receptor antagonist; hyponatraemia, ADPKD"
+3,Lemborexant,7.02,0.62,0.32,-9.2,Dual orexin receptor antagonist; insomnia
+4,Rimonabant,6.98,0.58,0.32,-9.1,Cannabinoid CB1 receptor antagonist; anti-obesity (withdrawn)
+5,Ensartinib,7.30,0.72,0.31,-9.0,ALK tyrosine-kinase inhibitor; ALK-positive NSCLC
+6,Moricizine,6.89,0.59,0.32,-7.9,Class I antiarrhythmic (Na⁺-channel blocker; withdrawn)
+7,Conivaptan,7.10,0.54,0.30,-9.5,Vasopressin V1a/V2 receptor antagonist; hyponatraemia
+8,Roflumilast,7.07,0.57,0.30,-7.8,PDE4 inhibitor; COPD
+9,Ripretinib,6.95,0.70,0.30,-10.5,KIT/PDGFRα switch-control kinase inhibitor; GIST
+10,Glasdegib,6.83,0.63,0.31,-9.0,Smoothened (Hedgehog pathway) inhibitor; AML
+11,Larotrectinib,6.94,0.64,0.30,ND,TRK (NTRK) inhibitor; NTRK-fusion solid tumours
+16,Gefitinib,6.61,0.64,0.31,ND,EGFR tyrosine-kinase inhibitor; EGFR-mutant NSCLC
+18,Trametinib,6.62,0.67,0.31,ND,MEK1/2 inhibitor; melanoma and other solid tumours

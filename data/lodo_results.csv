@@ -1,0 +1,3 @@
+target,split,R2,RMSE,n_test
+M,leave-document-out,0.031,0.804,684
+D,leave-document-out,-0.049,1.063,684

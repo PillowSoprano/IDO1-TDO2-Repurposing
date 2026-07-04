@@ -1,0 +1,16 @@
+residue,min_dist_A,shared_with_epacadostat
+ASP72,1.91,False
+ASN67,2.9,False
+ASN62,2.95,False
+GLU69,3.11,False
+LEU198,3.25,True
+HIS64,3.28,False
+THR200,3.34,True
+PHE70,3.47,False
+PHE131,3.49,True
+ILE91,3.56,True
+LEU60,3.67,False
+GLN92,3.75,True
+VAL121,3.77,True
+ASP71,3.8,False
+PRO201,3.88,False

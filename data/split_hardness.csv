@@ -1,0 +1,13 @@
+target,split,R2,RMSE,n_test
+M,random,0.639,0.491,684
+M,scaffold,0.503,0.576,684
+M,butina,0.478,0.59,684
+M,chemspace,-0.484,0.995,684
+M,temporal_2022+,-0.928,1.025,284
+M,temporal_2021+,-0.644,1.013,408
+D,random,0.742,0.526,684
+D,scaffold,0.636,0.626,684
+D,butina,0.487,0.743,684
+D,chemspace,-0.206,1.139,684
+D,temporal_2022+,-0.293,0.971,284
+D,temporal_2021+,-0.146,1.139,408

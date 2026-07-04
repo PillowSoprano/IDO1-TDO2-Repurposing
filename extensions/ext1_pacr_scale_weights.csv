@@ -1,0 +1,9 @@
+target,feature,coefficient,optimizer_success,objective
+M,model_unc_base_fixed,1.0,True,0.27102660813966734
+M,intercept_log_scale,0.0909379255060911,True,0.27102660813966734
+M,chem_dist,0.0,True,0.27102660813966734
+M,doc_dist,0.0,True,0.27102660813966734
+D,model_unc_base_fixed,1.0,True,0.21608346223348068
+D,intercept_log_scale,0.02093088274506942,True,0.21608346223348068
+D,chem_dist,0.034304409914818465,True,0.21608346223348068
+D,doc_dist,0.25432624660904357,True,0.21608346223348068
