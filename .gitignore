@@ -26,3 +26,7 @@ data/*_rebuilt.csv
 
 # Logs
 *.log
+
+# Local journal submission bundles
+submission/*.zip
+submission/cover_letter_*.docx

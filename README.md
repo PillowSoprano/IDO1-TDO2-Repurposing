@@ -5,7 +5,7 @@ to IDO1 and TDO2. This repository holds the manuscript, all data artifacts, trai
 figures, a **reconstructed and self-validating analysis pipeline** (`src/`), and three
 **extension analyses** (`extensions/`).
 
-- **Manuscript:** `IDO1_TDO2_preprint_PACR_revised_clean.docx` (current submission draft) + [`preprint.md`](preprint.md) (synchronised Markdown source).
+- **Manuscript:** `IDO1_TDO2_PACR_JCheminf_submission_ready.docx` (current Journal of Cheminformatics submission draft) + [`preprint.md`](preprint.md) (Markdown source for the longer preprint draft).
 - **Headline result:** an honest, uncertainty-calibrated *negative* — no approved drug clears a
   confident dual-active conformal bound — plus a model-free measured IDO1/TDO2 inhibitor
   correlation *r* = 0.43.
